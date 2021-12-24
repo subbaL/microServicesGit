@@ -1,5 +1,8 @@
 Welcome to first text file in GIT
 I want to create micro services with spring boot
-Also want to work with Rest Api,JPA,PSQL.
+REST API 
+JPA
+PSQL
+
 
 Thank you :)
