@@ -3,6 +3,7 @@ I want to create micro services with spring boot
 REST API 
 JPA
 PSQL
+MYSQL
 
 
 Thank you :)
