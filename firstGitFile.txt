@@ -4,6 +4,11 @@ REST API
 JPA
 PSQL
 MYSQL
+c language
+c++
+python
+PHP
+
 
 
 Thank you :)
